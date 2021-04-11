@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Debug_embedded_1.exe</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>embedded_1.exe</name>
+			<type>1</type>
+			<location>C:/Users/edens/eclipse-workspace/embedded_1/Release/embedded_1.exe</location>
+		</link>
+	</linkedResources>
+</projectDescription>
